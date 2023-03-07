@@ -1,13 +1,12 @@
 
 
-🔭 I’m currently working as Software Engineer at Upwork || Ex-Koderlabs.
-🔭 Full Stack Developer at Koderlabs.
-🏠 Freelancer at Upwork.
-👨‍💻 Competitive programmer and MERN Stack with React Native.
-💬 Ask me about how to get started with development.
-📫 How to reach me: muhammadaaqib925@gmail.com or Linkedin
+🔭 I’m currently working as Software Engineer at Upwork || Ex-Koderlabs. \n
+🔭 Full Stack Developer at Koderlabs. \n
+🏠 Freelancer at Upwork. \n
+👨‍💻 Competitive programmer and MERN Stack with React Native. \n
+💬 Ask me about how to get started with development. \n
+📫 How to reach me: Mudassirhussain3202@gmail.com or [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mudassir-hussain-73267a216/)  \n
 ⚡ Fun fact: I think alot 😄
-Student of Bachelors of Computer Science 😎.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mudassir-hussain-73267a216/) 

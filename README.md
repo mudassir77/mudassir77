@@ -1,6 +1,6 @@
 
 
-🔭 I’m currently working as Software Engineer at Upwork || Ex-Koderlabs. \n
+🔭 I’m currently working as Software Engineer at Upwork || Ex-Koderlabs. /n
 🔭 Full Stack Developer at Koderlabs. \n
 🏠 Freelancer at Upwork. \n
 👨‍💻 Competitive programmer and MERN Stack with React Native. \n

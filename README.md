@@ -1,12 +1,15 @@
+### Hi there 👋, Mudassir Hussain Here.
 
+- 🔭 I’m currently working as Software Engineer at Upwork || Ex-Koderlabs.
+- 🔭 Full Stack Developer at Koderlabs.
+- 🏠 Freelancer at  <a href="https://www.upwork.com/freelancers/~01a56d090ef5d1029e/">Upwork</a>.
+- 👨‍💻 Competitive programmer and MERN Stack with React Native.
+- 💬 Ask me about how to get started with development.
+- 📫 How to reach me: mudassirhussain3202@gmail.com or
+                      <a href="[https://www.linkedin.com/in/aaqib-nazir-a65110197/](https://www.upwork.com/freelancers/~01c894e32cf2550d2a)">Linkedin</a>
+- ⚡ Fun fact: I think alot 😄
 
-🔭 I’m currently working as Software Engineer at Upwork || Ex-Koderlabs. /n
-🔭 Full Stack Developer at Koderlabs. \n
-🏠 Freelancer at Upwork. \n
-👨‍💻 Competitive programmer and MERN Stack with React Native. \n
-💬 Ask me about how to get started with development. \n
-📫 How to reach me: Mudassirhussain3202@gmail.com or [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mudassir-hussain-73267a216/)  \n
-⚡ Fun fact: I think alot 😄
+</br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mudassir-hussain-73267a216/) 

@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as Software Engineer at Upwork || Ex-Koderlabs.
 - 🔭 Full Stack Developer at Koderlabs.
-- 🏠 Freelancer at  <a href="https://www.upwork.com/freelancers/~01a56d090ef5d1029e/">Upwork</a>.
+- 🏠 Freelancer at  <a href="https://www.upwork.com/freelancers/~01c894e32cf2550d2a">Upwork</a>.
 - 👨‍💻 Competitive programmer and MERN Stack with React Native.
 - 💬 Ask me about how to get started with development.
 - 📫 How to reach me: mudassirhussain3202@gmail.com or

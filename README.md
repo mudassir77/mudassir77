@@ -4,7 +4,7 @@
 - 🔭 Full Stack Developer at Koderlabs.
 - 🏠 Freelancer at  <a href="https://www.upwork.com/freelancers/~01c894e32cf2550d2a">Upwork</a>.
 - 👨‍💻 Competitive programmer and MERN Stack with React Native.
-- 💬 Ask me about how to get started with development.
+- 💬 Ask me about how to get started with development. 
 - 📫 How to reach me: mudassirhussain3202@gmail.com or
                       <a href="[https://www.linkedin.com/in/aaqib-nazir-a65110197/](https://www.upwork.com/freelancers/~01c894e32cf2550d2a)">Linkedin</a>
 - ⚡ Fun fact: I think alot  😄

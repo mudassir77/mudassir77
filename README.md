@@ -7,7 +7,7 @@
 - 💬 Ask me about how to get started with development.
 - 📫 How to reach me: mudassirhussain3202@gmail.com or
                       <a href="[https://www.linkedin.com/in/aaqib-nazir-a65110197/](https://www.upwork.com/freelancers/~01c894e32cf2550d2a)">Linkedin</a>
-- ⚡ Fun fact: I think alot 😄
+- ⚡ Fun fact: I think alot  😄
 
 </br>
 

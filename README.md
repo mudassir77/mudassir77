@@ -1,5 +1,7 @@
 ### Hi there 👋, Mudassir Hussain Here.
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mudassir77" alt="mudassir77" /></a> </p>
+
 - 🔭 I’m currently working as Software Engineer at Upwork || Ex-Koderlabs.
 - 🔭 Full Stack Developer at Koderlabs.
 - 🏠 Freelancer at  <a href="https://www.upwork.com/freelancers/~01c894e32cf2550d2a">Upwork</a>.

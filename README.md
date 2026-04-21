@@ -147,7 +147,7 @@ const mudassir = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mudassir77&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&row=1&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mudassir77&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---

@@ -1,11 +1,12 @@
-### Hi there 👋, Mudassir Hussain Here.  
+### Hi there 👋, I'm Mudassir Hussain
 
-- 🔭 I’m currently working as Software Engineer at Upwork || Ex-Koderlabs.
-- 🔭 Full Stack Developer at Koderlabs.
-- 🏠 Freelancer at  <a href="https://www.upwork.com/freelancers/~01c894e32cf2550d2a">Upwork</a>.
-- 👨‍💻 Competitive programmer and MERN Stack with React Native.
-- 💬 Ask me about how to get started with development.
-- ⚡ Fun fact: I think alot  😄
+- 🔭 Software Engineer & Full Stack Developer — currently freelancing on <a href="https://www.upwork.com/freelancers/~01c894e32cf2550d2a">Upwork</a>.
+- 💼 Previously Full Stack Developer at Koderlabs.
+- 👨‍💻 MERN Stack & React Native specialist; competitive programmer at heart.
+- 🌱 Always exploring new tech — lately diving deeper into TypeScript, cloud, and Web3.
+- 💬 Ask me about getting started with modern web & mobile development.
+- 📫 Reach out on Upwork or open an issue on any of my repos.
+- ⚡ Fun fact: I think a lot 😄
 
 </br>
 
